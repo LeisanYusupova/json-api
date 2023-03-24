@@ -8,6 +8,8 @@
         "alt": "Бальзам после бритья"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+      "production": "Henkel",
+      "brand": "Foammen",
       "price": 2700,
       "weight": 50,
       "weightMeasure": "мл",
@@ -22,6 +24,8 @@
         "alt": "Набор для мужчин"
       },
       "description": "Не следует, однако забывать, что реализация намеченных плановых",
+      "production":"PBG",
+      "brand": "Carelax",
       "price": 1600,
       "weight": 750,
       "weightMeasure": "г",
@@ -35,6 +39,8 @@
         "alt": "Подарочный набор"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
+      "production": "Paris",
+      "brand": "Vivien Sabo",
       "price": 1820,
       "weight": 7,
       "priceMeasure": "₽",
@@ -49,6 +55,8 @@
         "alt": "Пемза для педикюра"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+      "production": "ASH",
+      "brand": "Lei",
       "price": 2700,
       "weight": 500,
       "priceMeasure": "₽",
@@ -63,6 +71,8 @@
         "alt": "Шампунь календула"
       },
       "description": "Не следует, однако забывать, что реализация намеченных плановых",
+      "production": "Beauty and natural",
+      "brand": "Целебные травы",
       "price": 1600,
       "weight": 750,
       "priceMeasure": "₽",
@@ -77,6 +87,8 @@
         "alt": "Крем для ног"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
+      "production": "Henkel",
+      "brand": "Novosvit",
       "price": 1820,
       "weight": 70,
       "priceMeasure": "₽",
@@ -91,6 +103,8 @@
         "alt": "Кассеты для бритья"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+      "production": "GER",
+      "brand": "BIG",
       "price": 2700,
       "weight": 500,
       "priceMeasure": "₽",
@@ -105,6 +119,8 @@
         "alt": "Крем для загара"
       },
       "description": "Не следует, однако забывать, что реализация намеченных плановых",
+      "production": "Vichy",
+      "brand": "Defance",
       "price": 1600,
       "weight": 750,
       "priceMeasure": "₽",
@@ -119,6 +135,8 @@
           "alt": "Ополаскиватель"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "Colgate",
+        "brand": "DIES",
         "price": 1600,
         "weight": 750,
         "priceMeasure": "₽",
@@ -133,6 +151,8 @@
           "alt": "Для снятия макияжа"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "PandG",
+        "brand": "Nivea",
         "price": 1600,
         "weight": 750,
         "priceMeasure": "₽",
@@ -147,6 +167,8 @@
           "alt": "Для снятия макияжа"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "Нэфис",
+        "brand": "Vitanika",
         "price": 1600,
         "weight": 750,
         "priceMeasure": "₽",
@@ -161,6 +183,8 @@
           "alt": "Крем для умывания"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "Нэфис",
+        "brand": "Vitanika",
         "price": 1600,
         "weight": 50,
         "priceMeasure": "₽",
@@ -175,6 +199,8 @@
           "alt": "Салфетки"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "Neva",
+        "brand": "Floom",
         "price": 1600,
         "weight": 50,
         "priceMeasure": "₽",
@@ -189,6 +215,8 @@
           "alt": "Салфетки"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "PandG",
+        "brand": "Medis",
         "price": 1600,
         "weight": 50,
         "priceMeasure": "₽",
@@ -203,6 +231,8 @@
           "alt": "Маска для волос"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "Henkel",
+        "brand": "Delicare Professional",
         "price": 1600,
         "weight": 50,
         "priceMeasure": "₽",
@@ -217,6 +247,8 @@
           "alt": "Пена для бритья"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "PandG",
+        "brand": "Carelax",
         "price": 1600,
         "weight": 50,
         "priceMeasure": "₽",
@@ -231,6 +263,8 @@
           "alt": "Скраб"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "production": "Pantine",
+        "brand": "Weis",
         "price": 1600,
         "weight": 50,
         "priceMeasure": "₽",
