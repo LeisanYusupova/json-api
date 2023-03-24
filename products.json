@@ -1,0 +1,241 @@
+{
+    "data": [
+    {
+      "id":1,
+      "title":"Бальзам после бритья",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/1.jpeg",
+        "alt": "Бальзам после бритья"
+      },
+      "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+      "price": 2700,
+      "weight": 50,
+      "weightMeasure": "мл",
+      "categories": ["средства для бритья", "уход за лицом"]
+
+    },
+    {
+      "id":2,
+      "title":"Подарочный набор для мужчин",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/2.jpeg",
+        "alt": "Набор для мужчин"
+      },
+      "description": "Не следует, однако забывать, что реализация намеченных плановых",
+      "price": 1600,
+      "weight": 750,
+      "weightMeasure": "г",
+      "categories": ["средства для бритья", "уход за лицом", "подарочные наборы"]
+    },
+    {
+      "id":3,
+      "title":"Подарочный набор из тушей",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/3.png",
+        "alt": "Подарочный набор"
+      },
+      "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
+      "price": 1820,
+      "weight": 7,
+      "priceMeasure": "₽",
+      "weightMeasure": "г",
+      "categories": ["уход за лицом", "подарочные наборы"]
+    },
+    {
+      "id":4,
+      "title":"Пемза для педикюра",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/4.webp",
+        "alt": "Пемза для педикюра"
+      },
+      "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+      "price": 2700,
+      "weight": 500,
+      "priceMeasure": "₽",
+      "weightMeasure": "г",
+      "categories": ["уход за ногами", "гигиеническая продукция"]
+    },
+    {
+      "id":5,
+      "title":"Шампунь календула",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/5.jpeg",
+        "alt": "Шампунь календула"
+      },
+      "description": "Не следует, однако забывать, что реализация намеченных плановых",
+      "price": 1600,
+      "weight": 750,
+      "priceMeasure": "₽",
+      "weightMeasure": "мл",
+      "categories": ["уход за волосами"]
+    },
+    {
+      "id":6,
+      "title":"Крем для ног",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/6.webp",
+        "alt": "Крем для ног"
+      },
+      "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
+      "price": 1820,
+      "weight": 70,
+      "priceMeasure": "₽",
+      "weightMeasure": "мл",
+      "categories": ["уход за ногами"]
+    },
+    {
+      "id":7,
+      "title":"Кассеты для бритья",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/7.wepb",
+        "alt": "Кассеты для бритья"
+      },
+      "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
+      "price": 2700,
+      "weight": 500,
+      "priceMeasure": "₽",
+      "weightMeasure": "г",
+      "categories": ["средства для бритья"]
+    },
+    {
+      "id":8,
+      "title":"Крем для загара",
+      "main_image": {
+        "src": "https://LeisanYusupova.github.io/json-api/images/2.png",
+        "alt": "Крем для загара"
+      },
+      "description": "Не следует, однако забывать, что реализация намеченных плановых",
+      "price": 1600,
+      "weight": 750,
+      "priceMeasure": "₽",
+      "weightMeasure": "мл",
+      "categories": ["средства для загара", "уход за телом"]
+    },
+    {
+        "id":9,
+        "title":"Ополаскиватель для полости рта",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/9.webp",
+          "alt": "Ополаскиватель"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 750,
+        "priceMeasure": "₽",
+        "weightMeasure": "мл",
+        "categories": ["гигиена полости рта", "гигиеническая продукция"]
+      },
+      {
+        "id":10,
+        "title":"Средство для снятия макияжа",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/10.webp",
+          "alt": "Для снятия макияжа"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 750,
+        "priceMeasure": "₽",
+        "weightMeasure": "мл",
+        "categories": ["уход за лицом"]
+      },
+      {
+        "id":11,
+        "title":"Крем для тела",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/11.jpeg",
+          "alt": "Для снятия макияжа"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 750,
+        "priceMeasure": "₽",
+        "weightMeasure": "мл",
+        "categories": ["уход за телом"]
+      },
+      {
+        "id":12,
+        "title":"Крем для умывания",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/12.jpeg",
+          "alt": "Крем для умывания"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 50,
+        "priceMeasure": "₽",
+        "weightMeasure": "мл",
+        "categories": ["уход за лицом"]
+      },
+      {
+        "id":13,
+        "title":"Бумажные салфетки",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/13.jpeg",
+          "alt": "Салфетки"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 50,
+        "priceMeasure": "₽",
+        "weightMeasure": "г",
+        "categories": ["бумажная продукция", "гигиеническая продукция"]
+      },
+      {
+        "id":14,
+        "title":"Влажные салфетки",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/14.webp",
+          "alt": "Салфетки"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 50,
+        "priceMeasure": "₽",
+        "weightMeasure": "г",
+        "categories": ["гигиеническая продукция"]
+      },
+      {
+        "id":15,
+        "title":"Маска для волос",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/15.webp",
+          "alt": "Маска для волос"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 50,
+        "priceMeasure": "₽",
+        "weightMeasure": "г",
+        "categories": ["уход за волосами"]
+      },
+      {
+        "id":16,
+        "title":"Пена для бритья",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/16.webp",
+          "alt": "Пена для бритья"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 50,
+        "priceMeasure": "₽",
+        "weightMeasure": "мл",
+        "categories": ["средство для бритья"]
+      },
+      {
+        "id":17,
+        "title":"Скраб для тела",
+        "main_image": {
+          "src": "https://LeisanYusupova.github.io/json-api/images/17.webp",
+          "alt": "Скраб"
+        },
+        "description": "Не следует, однако забывать, что реализация намеченных плановых",
+        "price": 1600,
+        "weight": 50,
+        "priceMeasure": "₽",
+        "weightMeasure": "г",
+        "categories": ["уход за телом"]
+      } 
+  ]
+  }
