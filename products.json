@@ -35,7 +35,7 @@
       "id":3,
       "title":"Подарочный набор из тушей",
       "main_image": {
-        "src": "https://LeisanYusupova.github.io/json-api/images/3.png",
+        "src": "https://LeisanYusupova.github.io/json-api/images/3.webp",
         "alt": "Подарочный набор"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу",
@@ -99,7 +99,7 @@
       "id":7,
       "title":"Кассеты для бритья",
       "main_image": {
-        "src": "https://LeisanYusupova.github.io/json-api/images/7.wepb",
+        "src": "https://LeisanYusupova.github.io/json-api/images/7.webp",
         "alt": "Кассеты для бритья"
       },
       "description": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры",
@@ -115,7 +115,7 @@
       "id":8,
       "title":"Крем для загара",
       "main_image": {
-        "src": "https://LeisanYusupova.github.io/json-api/images/2.png",
+        "src": "https://LeisanYusupova.github.io/json-api/images/8.webp",
         "alt": "Крем для загара"
       },
       "description": "Не следует, однако забывать, что реализация намеченных плановых",
@@ -243,7 +243,7 @@
         "id":16,
         "title":"Пена для бритья",
         "main_image": {
-          "src": "https://LeisanYusupova.github.io/json-api/images/16.webp",
+          "src": "https://LeisanYusupova.github.io/json-api/images/16.jpeg",
           "alt": "Пена для бритья"
         },
         "description": "Не следует, однако забывать, что реализация намеченных плановых",
